@@ -1,0 +1,12 @@
+{
+  "language": "Tiếng Việt",
+  "ui": {
+    "server_name": "TEDDY",
+    "disclaimer": "GIỚI THIỆU",
+    "server_description": " Server RP Teddy là nơi bạn có cơ hội tham gia vào cuộc sống ảo trong thế giới GTA 5 với các vai trò đa dạng. Tại đây, bạn có thể xây dựng nhân vật của mình, tương tác với cộng đồng, và tham gia vào câu chuyện đầy kịch tính. Hãy tham gia Teddy RP ngay để trải nghiệm sự hấp dẫn của cuộc phiêu lưu trong một thế giới ảo độc đáo.",
+    "loading": "Loading",
+    "loading_map": "Tải Map",
+    "loading_resources": "Tải dữ liệu",
+    "loading_scripts": "Tải tính năng"
+  }
+}

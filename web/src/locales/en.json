@@ -1,0 +1,12 @@
+{
+  "language": "Tiếng Việt",
+  "ui": {
+    "server_name": "MyServer",
+    "disclaimer": "DISCLAIMER",
+    "server_description": "This FiveM roleplay server is an independently operated community-driven project and is not affiliated with or endorsed by Take-Two Interactive or Rockstar Games. We are a group of dedicated fans who have created this server for entertainment and creative roleplay purposes only.",
+    "loading": "Loading",
+    "loading_map": "Map Loading",
+    "loading_resources": "Loading resources",
+    "loading_scripts": "Loading scripts"
+  }
+}
